@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../bt"
+		},
+		{
+			"path": "../../bt/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bt"
+	}
+}
